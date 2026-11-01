@@ -3,9 +3,9 @@ COS 201 — Computer Programming I
 
 Student Information
 
-- Name: [Enter your full name]
-- Matriculation Number: [Enter your matriculation number]
-- Programme: [Enter your programme]
+- Name: AMOSUN ABIOLA DAVID
+- Matriculation Number: 25/18050
+- Programme: COMPUTER SCIENCE
 - Course: COS 201 — Computer Programming I
 
 ---
