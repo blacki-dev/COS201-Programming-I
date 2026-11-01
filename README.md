@@ -3,8 +3,8 @@ COS 201 — Computer Programming I
 
 Student Information
 
-- Name: AMOSUN ABIOLA DAVID
-- Matriculation Number: 25/18050
+- Name: ADEBOLA ADEMIDE TAOFEEK
+- Matriculation Number: 25/18463
 - Programme: COMPUTER SCIENCE
 - Course: COS 201 — Computer Programming I
 
